@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.2",
-  "notes": "Song progress bar, Reset to Defaults button, and a new app icon"
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.3",
+  "notes": "Launch at login option, plus more spacing in Preferences"
 }
