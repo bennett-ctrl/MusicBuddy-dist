@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.4",
-  "notes": "Fix: progress bar now works on non-US (comma-decimal) regions"
+  "version": "1.0.5",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.5",
+  "notes": "Clearer update errors and a permission pre-check; includes the comma-decimal progress-bar fix"
 }
