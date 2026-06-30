@@ -1,5 +1,15 @@
 {
-  "version": "1.0.6",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.6",
-  "notes": "MusicBuddy 1.0.6\n\n• Song time on the progress bar: show elapsed and total, or time remaining.\n• Paused tracks now gently fade the title in and out, instead of a pause symbol.\n• Album artwork now appears for streaming tracks that don't carry embedded art.\n• New LIVE indicator for radio and live streams.\n• One-click log export for diagnostics, in Preferences.\n• After an automatic update, you now see what changed.\n\nPlus a round of bug fixes and polish: radio playback crashes, artwork and menu-bar alignment glitches, a cleaner idle icon, and a tidier Preferences window."
+  "version": "1.0.7",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.7",
+  "notes": "MusicBuddy 1.0.7\n\n• The song progress bar now lines up with the title, instead of running a little long.\n• When you update, you now see what changed in every version you skipped, not just the latest one.",
+  "changelog": [
+    {
+      "version": "1.0.7",
+      "notes": "MusicBuddy 1.0.7\n\n• The song progress bar now lines up with the title, instead of running a little long.\n• When you update, you now see what changed in every version you skipped, not just the latest one."
+    },
+    {
+      "version": "1.0.6",
+      "notes": "MusicBuddy 1.0.6\n\n• Song time on the progress bar: show elapsed and total, or time remaining.\n• Paused tracks now gently fade the title in and out, instead of a pause symbol.\n• Album artwork now appears for streaming tracks that don't carry embedded art.\n• New LIVE indicator for radio and live streams.\n• One-click log export for diagnostics, in Preferences.\n• After an automatic update, you now see what changed.\n\nPlus a round of bug fixes and polish: radio playback crashes, artwork and menu-bar alignment glitches, a cleaner idle icon, and a tidier Preferences window."
+    }
+  ]
 }
