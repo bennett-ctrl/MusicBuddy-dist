@@ -1,8 +1,12 @@
 {
-  "version": "1.0.7",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.7",
-  "notes": "MusicBuddy 1.0.7\n\n• The song progress bar now lines up with the title, instead of running a little long.\n• When you update, you now see what changed in every version you skipped, not just the latest one.",
+  "version": "1.0.8",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.8",
+  "notes": "Now-playing popover stays a fixed size. Long titles and artists now scroll inside the box instead of stretching it wider (and getting stuck big on the next song).",
   "changelog": [
+    {
+      "version": "1.0.8",
+      "notes": "Now-playing popover stays a fixed size. Long titles and artists now scroll inside the box instead of stretching it wider (and getting stuck big on the next song)."
+    },
     {
       "version": "1.0.7",
       "notes": "MusicBuddy 1.0.7\n\n• The song progress bar now lines up with the title, instead of running a little long.\n• When you update, you now see what changed in every version you skipped, not just the latest one."
