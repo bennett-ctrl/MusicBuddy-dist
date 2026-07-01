@@ -1,8 +1,12 @@
 {
-  "version": "1.0.8",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.0.8",
-  "notes": "Now-playing popover stays a fixed size. Long titles and artists now scroll inside the box instead of stretching it wider (and getting stuck big on the next song).",
+  "version": "1.1.1",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.1.1",
+  "notes": "MusicBuddy 1.1.1\n\n• Fixes a freeze that could happen when opening the now-playing popover. Thanks to Andi who flagged it.",
   "changelog": [
+    {
+      "version": "1.1.1",
+      "notes": "MusicBuddy 1.1.1\n\n• Fixes a freeze that could happen when opening the now-playing popover. Thanks to Andi who flagged it."
+    },
     {
       "version": "1.1.0",
       "notes": "MusicBuddy 1.1.0\n\n• When a song is paused, you now choose how the menu bar shows it: a subtle dim (the new default, shout out to Daniyal), the original breathing pulse, a pause icon, or just the music note.\n• Volume control, right inside the now-playing popover.\n• A redesigned Preferences window with a live preview of your menu bar, so you can see exactly how each setting looks (right down to how a long title scrolls at your chosen width) before you close the panel."
