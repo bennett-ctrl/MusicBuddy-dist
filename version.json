@@ -1,8 +1,12 @@
 {
-  "version": "1.1.1",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.1.1",
-  "notes": "MusicBuddy 1.1.1\n\n• Fixes a freeze that could happen when opening the now-playing popover. Thanks to Andi who flagged it.",
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.2.0",
+  "notes": "New: option to show the album in the menu bar scroll. Turn on \"Show album after artist\" in Preferences → Menu Bar → What to show.",
   "changelog": [
+    {
+      "version": "1.2.0",
+      "notes": "New: option to show the album in the menu bar scroll. Turn on \"Show album after artist\" in Preferences → Menu Bar → What to show."
+    },
     {
       "version": "1.1.1",
       "notes": "MusicBuddy 1.1.1\n\n• Fixes a freeze that could happen when opening the now-playing popover. Thanks to Andi who flagged it."
