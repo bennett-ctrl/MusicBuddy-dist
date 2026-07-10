@@ -1,8 +1,12 @@
 {
-  "version": "1.2.0",
-  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.2.0",
-  "notes": "New: option to show the album in the menu bar scroll. Turn on \"Show album after artist\" in Preferences → Menu Bar → What to show.",
+  "version": "1.3.0",
+  "url": "https://raw.githubusercontent.com/bennett-ctrl/MusicBuddy-dist/main/MusicBuddy.zip?v=1.3.0",
+  "notes": "• The popover has acquired a proper seek bar. Drag it about and the song follows. Click the right-hand time to count down instead of up, for those who prefer the glass half empty.\n• A heart for Apple Music. One click favorites the song; another actually unfavorites it, which took rather more negotiating with Music than anyone would care to admit. Spotify users get no heart, as Spotify does not permit visitors.\n• The popover can now dress for the occasion: keep the standard gray, or let the album artwork take over, frosted, or as proper liquid glass on macOS 26. Your popover, your rules.",
   "changelog": [
+    {
+      "version": "1.3.0",
+      "notes": "• The popover has acquired a proper seek bar. Drag it about and the song follows. Click the right-hand time to count down instead of up, for those who prefer the glass half empty.\n• A heart for Apple Music. One click favorites the song; another actually unfavorites it, which took rather more negotiating with Music than anyone would care to admit. Spotify users get no heart, as Spotify does not permit visitors.\n• The popover can now dress for the occasion: keep the standard gray, or let the album artwork take over, frosted, or as proper liquid glass on macOS 26. Your popover, your rules."
+    },
     {
       "version": "1.2.0",
       "notes": "New: option to show the album in the menu bar scroll. Turn on \"Show album after artist\" in Preferences → Menu Bar → What to show."
